@@ -1,0 +1,114 @@
+Enter the canvas width: 565
+Enter the canvas height: 653
+Shape 1: Rectangle
+Shape 2: Oval
+Shape 3: Circle
+Shape 4: Triangle
+Shape 5: Pentagon
+Shape 6: Heptagon
+Shape 7: Line
+Shape 1 : MyRectangle object with top left point (255 , 305) , Width: 70, Height: 97, Perimeter: 334.0, Area: 6790.0, and Color: LIGHT_CORAL
+Bounding Rectangle: MyRectangle object with top left point (255 , 305) , Width: 70, Height: 97, Perimeter: 334.0, Area: 6790.0, and Color: LIGHT_CORAL
+Shapes that Intersect: 
+Shape 1 & Shape 2 Intersection Rectangle: MyRectangle object with top left point (255 , 366) , Width: 69, Height: 36, Perimeter: 210.0, Area: 2484.0, and Color: YELLOW
+Shape 1 & Shape 3 Intersection Rectangle: null
+Shape 1 & Shape 4 Intersection Rectangle: null
+Shape 1 & Shape 5 Intersection Rectangle: null
+Shape 1 & Shape 6 Intersection Rectangle: MyRectangle object with top left point (255 , 305) , Width: 65, Height: 80, Perimeter: 290.0, Area: 5200.0, and Color: LEMON_CHIFFON
+Shape 1 & Shape 7 Intersection Rectangle: MyRectangle object with top left point (296 , 334) , Width: 29, Height: 68, Perimeter: 194.0, Area: 1972.0, and Color: PINK
+Points in Shape: 
+Point (203, 324) is not in Shape 1
+Point (125, 470) is not in Shape 1
+Point (300, 482) is not in Shape 1
+Point (393, 318) is not in Shape 1
+Point (393, 430) is not in Shape 1
+Shape 2 : MyOval object with center point (282 , 431) , X-Axis Length: 84, Y-Axis Length: 130, Perimeter: 343.82862230513666, Area: 8576.547944300135, and Color: MAROON
+Bounding Rectangle: MyRectangle object with top left point (240 , 366) , Width: 84, Height: 130, Perimeter: 428.0, Area: 10920.0, and Color: MAROON
+Shapes that Intersect: 
+Shape 2 & Shape 1 Intersection Rectangle: MyRectangle object with top left point (255 , 366) , Width: 69, Height: 36, Perimeter: 210.0, Area: 2484.0, and Color: SEA_GREEN
+Shape 2 & Shape 3 Intersection Rectangle: MyRectangle object with top left point (240 , 442) , Width: 30, Height: 54, Perimeter: 168.0, Area: 1620.0, and Color: THISTLE
+Shape 2 & Shape 4 Intersection Rectangle: null
+Shape 2 & Shape 5 Intersection Rectangle: null
+Shape 2 & Shape 6 Intersection Rectangle: MyRectangle object with top left point (240 , 366) , Width: 80, Height: 19, Perimeter: 198.0, Area: 1520.0, and Color: DARK_SLATE_BLUE
+Shape 2 & Shape 7 Intersection Rectangle: MyRectangle object with top left point (296 , 366) , Width: 28, Height: 62, Perimeter: 180.0, Area: 1736.0, and Color: MEDIUM_SPRING_GREEN
+Points in Shape: 
+Point (203, 324) is not in Shape 2
+Point (125, 470) is not in Shape 2
+Point (300, 482) is in Shape 2
+Point (393, 318) is not in Shape 2
+Point (393, 430) is not in Shape 2
+Shape 3 : MyCircle object with center point (200 , 512) , Radius: 70, Perimeter: 439.822971502571, Area: 15393.804002589986, and Color: BLUE
+Bounding Rectangle: MyRectangle object with top left point (130 , 442) , Width: 140, Height: 140, Perimeter: 560.0, Area: 19600.0, and Color: BLUE
+Shapes that Intersect: 
+Shape 3 & Shape 1 Intersection Rectangle: null
+Shape 3 & Shape 2 Intersection Rectangle: MyRectangle object with top left point (240 , 442) , Width: 30, Height: 54, Perimeter: 168.0, Area: 1620.0, and Color: MEDIUM_TURQUOISE
+Shape 3 & Shape 4 Intersection Rectangle: null
+Shape 3 & Shape 5 Intersection Rectangle: null
+Shape 3 & Shape 6 Intersection Rectangle: null
+Shape 3 & Shape 7 Intersection Rectangle: null
+Points in Shape: 
+Point (203, 324) is not in Shape 3
+Point (125, 470) is not in Shape 3
+Point (300, 482) is not in Shape 3
+Point (393, 318) is not in Shape 3
+Point (393, 430) is not in Shape 3
+Shape 4 : MyPolygon object with center point (304 , 168) , Number of Sides: 3, Side Length: 121.0, Interior Angle: 60.0 (Total Interior Angle: 180.0), Perimeter: 363.0, Area: 6339.738968403985, and Color: LIME
+Bounding Rectangle: MyRectangle object with top left point (234 , 98) , Width: 140, Height: 140, Perimeter: 560.0, Area: 19600.0, and Color: LIGHT_SLATE_GRAY
+Shapes that Intersect: 
+Shape 4 & Shape 1 Intersection Rectangle: null
+Shape 4 & Shape 2 Intersection Rectangle: null
+Shape 4 & Shape 3 Intersection Rectangle: null
+Shape 4 & Shape 5 Intersection Rectangle: MyRectangle object with top left point (351 , 166) , Width: 23, Height: 72, Perimeter: 190.0, Area: 1656.0, and Color: ORCHID
+Shape 4 & Shape 6 Intersection Rectangle: null
+Shape 4 & Shape 7 Intersection Rectangle: null
+Points in Shape: 
+Point (203, 324) is not in Shape 4
+Point (125, 470) is not in Shape 4
+Point (300, 482) is not in Shape 4
+Point (393, 318) is not in Shape 4
+Point (393, 430) is not in Shape 4
+Shape 5 : MyPolygon object with center point (415 , 230) , Number of Sides: 5, Side Length: 74.63243262818116, Interior Angle: 108.0 (Total Interior Angle: 540.0), Perimeter: 373.1621631409058, Area: 9583.059121280547, and Color: FIREBRICK
+Bounding Rectangle: MyRectangle object with top left point (351 , 166) , Width: 128, Height: 128, Perimeter: 512.0, Area: 16384.0, and Color: TEAL
+Shapes that Intersect: 
+Shape 5 & Shape 1 Intersection Rectangle: null
+Shape 5 & Shape 2 Intersection Rectangle: null
+Shape 5 & Shape 3 Intersection Rectangle: null
+Shape 5 & Shape 4 Intersection Rectangle: MyRectangle object with top left point (351 , 166) , Width: 23, Height: 72, Perimeter: 190.0, Area: 1656.0, and Color: CORAL
+Shape 5 & Shape 6 Intersection Rectangle: null
+Shape 5 & Shape 7 Intersection Rectangle: null
+Points in Shape: 
+Point (203, 324) is not in Shape 5
+Point (125, 470) is not in Shape 5
+Point (300, 482) is not in Shape 5
+Point (393, 318) is not in Shape 5
+Point (393, 430) is not in Shape 5
+Shape 6 : MyPolygon object with center point (264 , 329) , Number of Sides: 7, Side Length: 48.27007354458868, Interior Angle: 128.0 (Total Interior Angle: 896.0), Perimeter: 337.8905148121208, Area: 8467.015994523705, and Color: STEEL_BLUE
+Bounding Rectangle: MyRectangle object with top left point (208 , 273) , Width: 112, Height: 112, Perimeter: 448.0, Area: 12544.0, and Color: DODGER_BLUE
+Shapes that Intersect: 
+Shape 6 & Shape 1 Intersection Rectangle: MyRectangle object with top left point (255 , 305) , Width: 65, Height: 80, Perimeter: 290.0, Area: 5200.0, and Color: DARK_KHAKI
+Shape 6 & Shape 2 Intersection Rectangle: MyRectangle object with top left point (240 , 366) , Width: 80, Height: 19, Perimeter: 198.0, Area: 1520.0, and Color: YELLOW_GREEN
+Shape 6 & Shape 3 Intersection Rectangle: null
+Shape 6 & Shape 4 Intersection Rectangle: null
+Shape 6 & Shape 5 Intersection Rectangle: null
+Shape 6 & Shape 7 Intersection Rectangle: MyRectangle object with top left point (296 , 334) , Width: 24, Height: 51, Perimeter: 150.0, Area: 1224.0, and Color: LIME
+Points in Shape: 
+Point (203, 324) is not in Shape 6
+Point (125, 470) is not in Shape 6
+Point (300, 482) is not in Shape 6
+Point (393, 318) is not in Shape 6
+Point (393, 430) is not in Shape 6
+Shape 7 : MyLine object with endpoints (296, 428) & (354, 334), Length: 110.45361017187261, Angle: -58.324531261890776, and Color: DARK_SEA_GREEN
+Bounding Rectangle: MyRectangle object with top left point (296 , 334) , Width: 58, Height: 94, Perimeter: 304.0, Area: 5452.0, and Color: DARK_SEA_GREEN
+Shapes that Intersect: 
+Shape 7 & Shape 1 Intersection Rectangle: MyRectangle object with top left point (296 , 334) , Width: 29, Height: 68, Perimeter: 194.0, Area: 1972.0, and Color: BLACK
+Shape 7 & Shape 2 Intersection Rectangle: MyRectangle object with top left point (296 , 366) , Width: 28, Height: 62, Perimeter: 180.0, Area: 1736.0, and Color: LAVENDER
+Shape 7 & Shape 3 Intersection Rectangle: null
+Shape 7 & Shape 4 Intersection Rectangle: null
+Shape 7 & Shape 5 Intersection Rectangle: null
+Shape 7 & Shape 6 Intersection Rectangle: MyRectangle object with top left point (296 , 334) , Width: 24, Height: 51, Perimeter: 150.0, Area: 1224.0, and Color: LIGHT_SALMON
+Points in Shape: 
+Point (203, 324) is not in Shape 7
+Point (125, 470) is not in Shape 7
+Point (300, 482) is not in Shape 7
+Point (393, 318) is not in Shape 7
+Point (393, 430) is not in Shape 7
